@@ -1,6 +1,7 @@
 <!--
-README ATUALIZADO - RAFAEL HOFSTATTER
-Foco: Tech, JS/TS, Engenharia de Software
+UPDATED README - RAFAEL HOFSTATTER
+Focus: Tech, JS/TS, Software Engineering
+Language: English
 -->
 
 <div align="center">
@@ -9,23 +10,23 @@ Foco: Tech, JS/TS, Engenharia de Software
 
 <div align="center">
 <a href="https://www.google.com/search?q=https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D500%26size%3D22%26pause%3D1000%26color%3D3366CC%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DApaixonado%2Bpor%2Btecnologia%2Be%2Binova%25C3%25A7%25C3%25A3o%3BEspecialista%2Bno%2Becossistema%2BJavaScript%252FTypeScript%3BFocado%2Bem%2BClean%2BCode%2Be%2BArquitetura%3BSempre%2Baprendendo%2Balgo%2Bnovo" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D500%26size%3D22%26pause%3D1000%26color%3D3366CC%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DPassionate%2Babout%2Btech%2B%2526%2Binnovation%3BSpecialist%2Bin%2BJS%252FTS%2BEcosystem%3BFocused%2Bon%2BClean%2BCode%2B%2526%2BArchitecture%3BAlways%2Blearning%2Bsomething%2Bnew" alt="Typing SVG" />
 </a>
 </div>
 
-🚀 Sobre Mim
+🚀 About Me
 
-Fala! Sou o Rafael, estudante de Engenharia de Software e um entusiasta do mundo da tecnologia.
+Hi! I'm Rafael, a Software Engineering student and technology enthusiast.
 
-Meu foco é construir soluções robustas e escaláveis, sempre prezando pela qualidade do código e pela experiência do usuário. Sou fascinado pelo ecossistema JS/TS, mas como um bom engenheiro, entendo que a linguagem é uma ferramenta para resolver problemas complexos.
+My focus is on building robust and scalable solutions, always prioritizing code quality and user experience. I am fascinated by the JS/TS ecosystem, but as an engineer, I understand that languages are tools to solve complex problems.
 
-💻 Stack Principal: Focado fortemente no ecossistema JavaScript/TypeScript (Node, React, etc).
+💻 Core Stack: Strongly focused on the JavaScript/TypeScript ecosystem (Node, React, Next.js).
 
-🔭 Atualmente: Aprimorando conhecimentos em arquitetura de software e boas práticas (SOLID, Design Patterns).
+🔭 Currently: Deepening knowledge in software architecture and best practices (SOLID, Design Patterns).
 
-🌱 Objetivo: Criar aplicações modernas, performáticas e aesthetically pleasing.
+🌱 Goal: To create modern, performant, and aesthetically pleasing applications.
 
-⚡ Curiosidade: Adoro explorar novas tecnologias e entender como as coisas funcionam "debaixo do capô".
+⚡ Fun Fact: I love exploring new technologies and understanding how things work "under the hood".
 
 🛠️ Tech Stack
 
@@ -38,7 +39,7 @@ Meu foco é construir soluções robustas e escaláveis, sempre prezando pela qu
 <img align="center" alt="Rafael-Node" height="40" width="50" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" alt="Rafael-React" height="40" width="50" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<!-- Espaçamento -->
+<!-- Spacing -->
 
 <!-- General Engineering -->
 
@@ -58,10 +59,10 @@ Meu foco é construir soluções robustas e escaláveis, sempre prezando pela qu
 ⚡ Let's Connect
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN_Here" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" target="_blank" />
 </a>
-<a href="mailto:seu-email@gmail.com">
+<a href="mailto:your-email@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" target="_blank" />
 </a>
 </div>
