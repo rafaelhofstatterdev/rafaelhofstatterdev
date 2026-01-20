@@ -1,101 +1,85 @@
-<!-- README — Rafael Hofstatter | Full Stack Software Engineer -->
+<!--
+UPDATED README - RAFAEL HOFSTATTER
+Focus: Tech, JS/TS, Software Engineering
+Language: English
+Style: Badges (Shields.io)
+-->
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Rafael%20Hofstatter&fontSize=68&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20•%20JavaScript%20%2F%20TypeScript&descAlignY=55&descAlign=50" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Rafael%20Hofstatter&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20Student%20•%20Full%20Stack%20•%20Tech%20Lover&descAlignY=55&descAlign=50" 
     width="100%"
   />
 </div>
 
-<br/>
-
-<div align="center">
-
-### Full Stack Software Engineer  
-**JavaScript & TypeScript Ecosystem • Clean Code • Scalable Systems**
-
-</div>
-
-<br/>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+scalable+full+stack+applications;Strong+focus+on+JS%2FTS+ecosystem;Clean+Code+and+Software+Architecture;Always+learning+and+improving" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Passionate+about+tech+%26+innovation;Specialist+in+JS%2FTS+Ecosystem;Focused+on+Clean+Code+%26+Architecture;Always+learning+something+new" 
       alt="Typing SVG"
     />
   </a>
 </div>
 
-<br/><br/>
-
 ---
 
 ## 🚀 About Me
 
-I'm a **Full Stack Software Engineering student** focused on building **robust, scalable, and maintainable applications**.  
-I prioritize **clean architecture, code quality, and developer experience**, using the JavaScript and TypeScript ecosystem as my main toolbox.
+Hi! I'm Rafael, a Software Engineering student and technology enthusiast.
 
-<br/>
+- 💻 **Core Stack:** JavaScript / TypeScript (Node, React, Next.js)  
+- 🔭 **Currently:** Software architecture, SOLID & Design Patterns  
+- 🌱 **Goal:** Modern, performant and elegant applications  
+- ⚡ **Fun fact:** I love understanding how things work under the hood  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
 </div>
-
-<br/>
-
-### Backend
-<div>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge"/>
-</div>
-
-<br/>
-
-### Tooling
-<div>
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white"/>
-</div>
-
-<br/><br/>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelhofstatterdev&theme=tokyo-night&hide_border=true" 
-    width="100%"
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=rafaelhofstatterdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhofstatterdev&layout=compact&theme=tokyonight"
   />
 </div>
-
-<br/>
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ Let's Connect
 
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=rafaelhofstatterdev&theme=tokyonight&no-frame=true&row=1&column=7" 
-    width="100%"
-  />
+  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
-<br/><br/>
-
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=110&section=footer" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" 
     width="100%"
   />
 </div>
