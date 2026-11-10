@@ -69,14 +69,6 @@ Hi! I'm Rafael, a Software Engineering student and technology enthusiast.
 
 ## ⚡ Let's Connect
 
-<div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
 <div align="center">
   <img 
